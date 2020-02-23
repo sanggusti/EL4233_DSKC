@@ -12,7 +12,7 @@ git clone https://github.com/dbkusumawardhana/EL4233_DSKC.git
 ```
 Open the directory and create new virtual environment
 ```
-cd el4233_dskc
+cd EL4233_DSKC
 python3 -m venv tutorial
 ```
 Activate the virtual environment
