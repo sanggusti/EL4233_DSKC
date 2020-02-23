@@ -2,7 +2,7 @@
 
 ## Do the following command on your terminal to set up the environment.
 
-Installing virtualenv
+Install virtualenv
 ```
 python -m pip install virtualenv
 ```
