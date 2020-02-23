@@ -8,7 +8,7 @@ python -m pip install virtualenv
 ```
 Clone the repository
 ```
-git clone https://github.com/dbkusumawardhana/el4233_dskc.git
+git clone https://github.com/dbkusumawardhana/EL4233_DSKC.git
 ```
 Open the directory and create new virtual environment
 ```
