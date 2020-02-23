@@ -21,7 +21,7 @@ source ./tutorial/bin/activate
 ```
 Install dependencies
 ```
-python -m pip install -r requirements.txt
+python -m pip install --user -r requirements.txt
 ```
 Run Jupyter Notebook
 ```
