@@ -2,6 +2,8 @@
 
 ## Do the following command on your terminal to set up the environment.
 
+This is Gusti Folder of EL4233 DSKC assignment repository. Forked from main branch of EL4233 Course Repository.
+
 Install virtualenv
 ```
 python -m pip install virtualenv
